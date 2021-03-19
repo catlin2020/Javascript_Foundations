@@ -4,7 +4,7 @@ JavaScript es el lenguaje de programación que debes usar para añadir caracter�
 
 Es el único lenguaje de Programación que funciona en los navegadores de forma nativa (lenguaje interpretado sin necesidad de Compilador); el navegador lee directamente el código. Por tanto se utiliza como complemento de HTML y CSS para crear páginas Web.
 
-Contenido
+Temas
 
 00_What_is_javascript.html
 01_What_is_ECMAScript.html
