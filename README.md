@@ -18,6 +18,7 @@ JavaScript es el lenguaje de programación que debemos usar para añadir caracte
 
 ### Autor
 
+**Diego Fernando Trejos Renza**</br>
 [Cuenta de Github](https://github.com/catlin2020)</br>
 [Cuenta de Twitter](https://twitter.com/difetre)</br>
 2020
