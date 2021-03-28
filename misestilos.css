@@ -1,0 +1,15 @@
+.titulo1 {
+    color: rgb(255, 0, 0);
+}
+ul{
+    list-style: none;
+    text-align: left;
+}
+a{
+    color: brown !important; 
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(42, 165, 48) !important;
+    text-decoration: none !important;
+}
